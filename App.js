@@ -16,7 +16,7 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   const config = {
-    headers: { Authorization: "Bearer 1e370260-a460-11ec-9907-e164c0266aa5" },
+    headers: { Authorization: "Bearer " },
   };
 
   const bodyParameters = {
